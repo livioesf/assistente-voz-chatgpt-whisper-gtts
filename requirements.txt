@@ -1,0 +1,8 @@
+openai
+git+https://github.com/openai/whisper.git
+sounddevice
+numpy
+scipy
+gtts
+playsound
+python-dotenv
